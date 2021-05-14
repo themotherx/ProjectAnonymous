@@ -4,7 +4,7 @@ public class hello{
 		
 		for(int i=1;i<=10;i++){
 			
-			System.out.println("Hello Motherfuckers! Wazz up!");
+			System.out.println("Hello Motherfuckers! Testing Git and GitHub!");
 			
 		}
 	}
